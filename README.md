@@ -6,5 +6,5 @@ revisi git source control
 we have to learn about git
 bagaimana agar mudah belajar git
 belajar git sangat menyenangkan
-harus fokus agar jago di git
-dadah
+harus fokus agar dapat memahami materi  
+sekian
