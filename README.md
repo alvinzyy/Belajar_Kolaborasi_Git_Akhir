@@ -4,3 +4,4 @@ halo
 fahad sedang mempelajari seputar git
 revisi git source control
 we have to learn about git
+bagaimana agar mudah belajar git
